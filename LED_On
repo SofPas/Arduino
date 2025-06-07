@@ -1,3 +1,8 @@
+/*
+Turorial i followed:
+https://www.youtube.com/watch?v=fJWR7dBuc18&list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP
+*/
+
 void setup() {
 pinMode(13, OUTPUT);
 }
